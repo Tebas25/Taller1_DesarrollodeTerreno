@@ -16,4 +16,4 @@ Otro punto a resaltar es el hecho de el terreno esta compuesto por una textura y
 Se incluyo un archivo .gitignore para no subir archivos innecesarios al repositorio. El script del archivo es propio de un repositorio de github
 que UNITY nos proporciona
 
- Finalmente podrá ver la ejecución del taller en el siguiente enlace
+ Finalmente podrá ver la ejecución del taller en el siguiente enlace: https://youtu.be/YfgkQP2fJM4
